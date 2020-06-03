@@ -1,11 +1,11 @@
 <html>
 
 <body>
-	<p align="center"> <font size=+2> <b> Ranking Stocks by risk and relative rentability </b> </font> </p><hr>
+	<p align="center"> <font size=+2> <b> Ranking Stocks by risk and relative rentability </b> </font> </p>
 <pre>    A Data Science study made in python that uses all the data of brazilian ordinary stocks in investing.com to return the rank of the assets with highest gains above IBovespa(monthly relative rentability) and lowest systematic risk(beta coefficient)
 
 </pre>
-<p align="center"> <font size=+2> <b> Result  </b> </font> </p> <hr>
+<p align="center"> <font size=+2> <b> Result  </b> </font> </p>
 
 ![Image](https://github.com/VitorFigm/---DATA-SCIENCE---Ranking-stocks-by-risk-and-monthly-relative-rentability/blob/master/Rank.png)
 
