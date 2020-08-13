@@ -4,7 +4,7 @@ from scipy.stats import linregress as line
 import pandas as pd
 
 class rank:  ##return the rank of the assets with more average monthly gains above benchmark and less volatility
-    ##qts=how many wills appears in the rank
+    ##qts=how many will appear in the rank
     def lessrisk_moregains(self,datei,datef,index_,qts):
         country_='Brazil'   ##I don't know how the symbols of stocks in other country works, so i will limit my code to Brazil
         symbols = inv.get_stocks(country=country_).symbol
